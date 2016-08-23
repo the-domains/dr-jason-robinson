@@ -1,14 +1,26 @@
-layout_spectrum: 0.36691328370943666
-typography_spectrum: 0.6788042602129281
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.5505902
 color:
+  saturation: 0.891231
   brandStrength: 0.9098407144192606
-  lightness: 0.5264944343362004
-  saturation: 0.8516367296688259
-  rhythmicContrast: 0.91718843835406
+  lightness: 0.8718381
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+  rhythmicContrast: 0.8946037
+layout_spectrum: 0.2588533
 name: Dr Jason Robinson
